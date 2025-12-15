@@ -1,6 +1,6 @@
 Hi, I'm Wayne
 
-💻 Aspiring Full-stack Developer
+💻 Aspiring Reverse Engineer
 
 🧠 About Me
 - Currently in my 2nd year of University studying Computer Science
