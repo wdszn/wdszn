@@ -1,4 +1,4 @@
-Hi, I'm Wayne
+Hi!
 
 💻 Aspiring Reverse Engineer
 
